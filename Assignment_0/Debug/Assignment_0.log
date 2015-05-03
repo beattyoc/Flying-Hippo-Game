@@ -1,0 +1,48 @@
+﻿Build started 15/12/2014 12:25:11.
+     1>Project "C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Assignment_0\Assignment_0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\libs_0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(447): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(451): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(656): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(668): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(680): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(728): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(747): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(748): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(749): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(750): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\antons_mathsf.h(755): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : macro redefinition
+                 c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\libs_0\include\glfw\glfw3.h(92) : see previous definition of 'APIENTRY'
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(492): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(574): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(576): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(607): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(608): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(609): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(617): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(630): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(673): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(678): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(679): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(682): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(683): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(684): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(695): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(697): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(701): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\claire\documents\tcd\ss - 4th year\graphics\assignment_0\game project\assignment_0\main.cpp(703): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Debug\Assignment_0.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\libs_0" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glew32.lib glfw3.lib opengl32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Debug\Assignment_0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Debug\Assignment_0.lib" /MACHINE:X86 Debug\main.obj
+         Debug\obj_parser.obj
+         Debug\stb_image.obj
+         Debug\text.obj
+         Assignment_0.vcxproj -> C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Debug\Assignment_0.exe
+     1>Done Building Project "C:\Users\Claire\Documents\TCD\SS - 4th Year\Graphics\Assignment_0\Game Project\Assignment_0\Assignment_0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.81
